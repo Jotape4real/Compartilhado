@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    font-size: 80px;
+    text-align: center;
+    border: 4px solid grey;
+    border-radius: 2px;
+    background-color: white;
+}
+h2{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(177, 177, 177);
+}
+#p_azul{
+    color:green;
+}
+.vermelho{
+    color: red;
+}
+body{
+    background-color: white;
+}
+.navI{
+    background-color: white;
+    border: 4px solid grey;
+    border-radius: 2px;
+}
